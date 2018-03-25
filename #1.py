@@ -35,3 +35,4 @@ while flag == True:
     i += 1
 
 print (int(number) * i)
+    
